@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nazir</h1>
 <h3 align="center">A passionate frontend developer based in Malaysia</h3>
+<img align="right" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazirahmad123&label=Profile%20views&color=0e75b6&style=flat" alt="nazirahmad123" /> </p>
 
