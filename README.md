@@ -10,7 +10,7 @@
 
 - 👨‍💻 Some of my work is available at [https://codepen.io/nazirn]
 
-- 📝 I regularly write articles on [iamnaziir.medium.com](iamnaziir.medium.com)
+- 📝 I regularly write articles on [iamnaziir.medium.com]
 
 - 💬 Ask me about **html, css, JS and react**
 
