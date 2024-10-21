@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://codepen.io/tiny_mircles/pens/public]
+- 👨‍💻 All of my projects are available at https://codepen.io/nazirn
 
 - 📝 I regularly write articles on [iamnaziir.medium.com](iamnaziir.medium.com)
 
